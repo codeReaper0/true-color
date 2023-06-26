@@ -178,7 +178,7 @@ export default function SideBar() {
                   </h3>
 
                   <nav className="space-y-4">
-                    <button className="p-3 flex items-center justify-between font-bold text-[#f4f4f4] border border-[#696969] rounded w-full relative text-sm xl:text-base">
+                    <button className="p-3 flex items-center justify-between font-bold text-[#f4f4f4] border border-[#696969] rounded w-full relative xl:text-base">
                       <span>Set up a call</span>
                       <span>
                         <svg
@@ -202,7 +202,7 @@ export default function SideBar() {
                       </a>
                     </button>
 
-                    <button className="p-3 flex items-center justify-between font-bold text-[#f4f4f4] border border-[#696969] rounded w-full relative text-sm xl:text-base">
+                    <button className="p-3 flex items-center justify-between font-bold text-[#f4f4f4] border border-[#696969] rounded w-full relative xl:text-base">
                       <span>Email</span>
                       <span>
                         <svg
@@ -226,7 +226,7 @@ export default function SideBar() {
                       </a>
                     </button>
 
-                    <button className="p-3 flex items-center justify-between font-bold text-[#f4f4f4] border border-[#696969] rounded w-full relative text-sm xl:text-base">
+                    <button className="p-3 flex items-center justify-between font-bold text-[#f4f4f4] border border-[#696969] rounded w-full relative xl:text-base">
                       <span>What is Truecolor?</span>
                       <span>
                         <svg
@@ -249,7 +249,7 @@ export default function SideBar() {
                         .
                       </a>
                     </button>
-                    <button className="p-3 font-bold text-[#f4f4f4] border border-[#696969] rounded w-full relative text-left text-sm xl:text-base">
+                    <button className="p-3 font-bold text-[#f4f4f4] border border-[#696969] rounded w-full relative text-left xl:text-base">
                       <span>What is Truecolor?</span>
                       <a href="/" className="absolute opacity-0 inset-0">
                         .
