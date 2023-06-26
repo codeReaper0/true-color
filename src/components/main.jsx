@@ -10,7 +10,7 @@ import {Autoplay, EffectFade} from "swiper";
 
 export default function Main() {
   return (
-    <main className="min-w-[320px] md:max-w-lg lg:max-w-3xl xl:max-w-[1050px] h-full 2xl:max-w-[1500px]">
+    <main className="flex-grow h-full">
       <Swiper
         spaceBetween={1}
         effect={"fade"}

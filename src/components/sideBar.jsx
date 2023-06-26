@@ -5,7 +5,7 @@ import {Bars3Icon, XMarkIcon} from "@heroicons/react/20/solid";
 export default function SideBar() {
   return (
     <React.Fragment>
-      <aside className=" hidden h-full bg-[#16161C] p-10 md:flex flex-col justify-center text-white flex-grow relative">
+      <aside className=" hidden h-full bg-[#16161C] p-10 md:flex flex-col justify-center text-white flex-none max-w-sm w-full relative">
         <h3 className="font-bold text-2xl xl:text-[32px] mb-8 xl:mb-16">
           Truecolo
           <span className="text-[#fe3939]">r</span>
